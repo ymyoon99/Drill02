@@ -43,3 +43,4 @@ while(True):
         delay(0.01)
 
 close_canvas()
+
